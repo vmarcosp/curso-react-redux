@@ -1,2 +1,1 @@
-# react-todo-app
-TODO using ReactJS
+# Curso ReactJS + Redux
