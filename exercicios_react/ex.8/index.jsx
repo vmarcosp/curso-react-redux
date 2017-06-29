@@ -3,5 +3,5 @@ import ReactDOM from 'react-dom';
 import App from './app.jsx';
 
 ReactDOM.render(
-    <App value={10}/>
+    <App value="Marcos"/>
     , document.getElementById('app'));
